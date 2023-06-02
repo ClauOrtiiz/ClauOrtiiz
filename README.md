@@ -1,14 +1,14 @@
-<h1 align="center">Hola a todos 👋, Soy Claudia Ortiz</h1>
+<h1 align="center"Hi, 👋,  I'm Claudia Ortiz</h1>
 ====================================================================================
 
-<h3 align="center">Soy una desarrollador web de la Ciudad Blanca de Arequipa - Perú.</h3>
+<h3 align="center">I am a web developer from the White City of Arequipa - Peru.</h3>
 
 ----------------------
 
-*  🌍 Vivo en Perú.
-*  ✉️ Puedes contactarme en [holaclaudiia@gmail.com](mailto:holaclaudiia@gmail.com)
-*  🌱Actualmente estoy aprendiendo JavaScript.
-*  ⚡ Me encanta salir al campo, bailar y los juegos de mesa.
+*  🌍I'm based in Perú, Arequipa
+*  ✉️ You can contact me at [holaclaudiia@gmail.com](mailto:holaclaudiia@gmail.com)
+*  🌱 I'm currently learning JavaScript.
+*  ⚡ I love going out to the countryside, dancing and board games.
 
 
 ### Socials
