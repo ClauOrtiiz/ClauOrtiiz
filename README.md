@@ -1,3 +1,5 @@
+![portada linkedin (6)](https://github.com/ClauOrtiiz/ClauOrtiiz/assets/125047376/aed4d4ef-b2ca-49d0-af96-d80e5a4d9a17)
+
 <h1 align="center"> Hi👋, I'm Claudia Ortiz</h1>
 ====================================================================================
 
