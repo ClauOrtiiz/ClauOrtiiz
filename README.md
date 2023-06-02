@@ -1,4 +1,4 @@
-<h1 align="center"Hi, 👋,  I'm Claudia Ortiz</h1>
+<h1 align="center" Hi👋, I'm Claudia Ortiz</h1>
 ====================================================================================
 
 <h3 align="center">I am a web developer from the White City of Arequipa - Peru.</h3>
