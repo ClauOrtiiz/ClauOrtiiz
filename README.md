@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Claudia Ortiz Llamoca</h1>
-==================================================================================
+<h1 align="center">Hola a todos 👋, Soy Claudia Ortiz</h1>
+====================================================================================
 
-<h2 align="center" >  Web Developer Frontend </h2>
+<h3 align="center">Soy una desarrollador web de la Ciudad Blanca de Arequipa - Perú.</h3>
+
 ----------------------
 
-Desarrolladora Frontend con mente curiosa y creativa. Estudié Relaciones Públicas porque creo que es fundamental tener una buena comunicación con todo un equipo. Además, realicé cursos en diseño UX/UI, lo que me ha permitido entender cómo la tecnología y el diseño pueden trabajar juntos para crear experiencias en línea excepcionales. Mi objetivo es seguir creando productos que mejoren la vida de las personas y reflejen mi pasión por la tecnología y el diseño.
+🌍 Vivo en Perú.
+✉️ Puedes contactarme en [holaclaudiia@gmail.com](mailto:holaclaudiia@gmail.com)
+🌱Actualmente estoy aprendiendo JavaScript.
+⚡ Me encanta salir al campo, bailar y los juegos de mesa.
 
-* 🌍  I'm based in Perú, Arequipa
-* ✉️  You can contact me at [holaclaudiia@gmail.com](mailto:holaclaudiia@gmail.com)
 
 
 ### Socials
