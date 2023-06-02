@@ -5,10 +5,10 @@
 
 ----------------------
 
-🌍 Vivo en Perú.
-✉️ Puedes contactarme en [holaclaudiia@gmail.com](mailto:holaclaudiia@gmail.com)
-🌱Actualmente estoy aprendiendo JavaScript.
-⚡ Me encanta salir al campo, bailar y los juegos de mesa.
+*  🌍 Vivo en Perú.
+*  ✉️ Puedes contactarme en [holaclaudiia@gmail.com](mailto:holaclaudiia@gmail.com)
+*  🌱Actualmente estoy aprendiendo JavaScript.
+*  ⚡ Me encanta salir al campo, bailar y los juegos de mesa.
 
 
 
