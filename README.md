@@ -35,9 +35,5 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/sofia-torres-v" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sofia-torres-v-front-end-developer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.behance.com/ortizclaudiia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sofia-torres-v-front-end-developer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/sofia-torres-v"><img src="https://github-readme-stats.vercel.app/api?username=sofia-torres-v&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="sofia-torres-v's GitHub stats" /></a>
