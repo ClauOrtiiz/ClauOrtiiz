@@ -1,13 +1,13 @@
 ![portada linkedin (6)](https://github.com/ClauOrtiiz/ClauOrtiiz/assets/125047376/aed4d4ef-b2ca-49d0-af96-d80e5a4d9a17)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=3C82DAEB&center=FALSO&vCenter=verdadero&repeat=verdadero&random=FALSO&width=435&lines=Hola%2C+yo+soy+Claudia+Ortiz+LLamoca)](https://git.io/typing-svg)
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=3C82DAEB&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Claudia+Ortiz+LLamoca" alt="Typing SVG" /></a></h1>
 ====================================================================================
 
 <h3 align="center">I am a web developer from the White City of Arequipa - Peru.</h3>
 
 ----------------------
 
-*  🌍I'm based in Perú, Arequipa
+*  🌍 I'm based in Perú, Arequipa
 *  ✉️ You can contact me at [holaclaudiia@gmail.com](mailto:holaclaudiia@gmail.com)
 *  🌱 I'm currently learning JavaScript.
 *  ⚡ I love going out to the countryside, dancing and board games.
