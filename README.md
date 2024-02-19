@@ -1,4 +1,4 @@
-![portada linkedin (6)](https://github.com/ClauOrtiiz/ClauOrtiiz/assets/125047376/aed4d4ef-b2ca-49d0-af96-d80e5a4d9a17)
+![portada github (1)](https://github.com/ClauOrtiiz/ClauOrtiiz/assets/125047376/1f0ddfd5-879d-41dc-a683-5e98860e536f)
 
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=3C82DAEB&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Claudia+Ortiz+LLamoca" alt="Typing SVG" /></a></h1>
 ====================================================================================
